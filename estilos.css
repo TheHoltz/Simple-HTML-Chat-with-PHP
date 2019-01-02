@@ -1,0 +1,69 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+input {
+    border-bottom: #74b9ff;
+        border-bottom-width: medium;
+        border-bottom-style: none;
+    border-bottom-width: medium;
+    border-bottom-style: none;
+    border-bottom-style: solid;
+    border-width: 5px;
+    margin: 10px 0px 10px 0px;
+    height: 20px;
+    background-color: transparent;
+    padding: 10px;
+    width: 25%;
+}
+
+textarea {
+    border-bottom: #74b9ff;
+        border-bottom-width: medium;
+        border-bottom-style: none;
+    border-bottom-style: solid;
+    border-width: 5px;
+    margin: 0px 0px 10px 0px;
+    padding: 10px;
+    background-color: #dfe6e9;
+    width: 29.5%;
+}
+
+h1 {
+    margin-top: 3%;
+    font-family: 'Anonymous Pro', monospace;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+
+.chat-data span {
+
+    font-size: 18px;
+    font-family: 'Anonymous Pro', monospace;
+
+}
+
+.chat-data {
+    margin-top: 1%;
+    border: black;
+        border-top-style: none;
+        border-right-style: none;
+        border-bottom-style: none;
+        border-left-style: none;
+    border-style: solid;
+    padding: 10px;
+    width: 47%;
+}
+
+.enviar {
+    padding-bottom: 26px;
+    width: 31.6%;
+    background-color: #0984e3;
+    color: white;
+}
+
+.container {
+    margin-left: 30%;
+}
